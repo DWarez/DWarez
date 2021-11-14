@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🙋‍♂️ Hello, I'm Dario and I'm currently enrolled in a MSc degree in Computer Science at the University of Pisa. 🎓
+🙋‍♂️ Hello, I'm Dario, I have a bachelor degree in Computer Engineering and I'm currently enrolled in a MSc degree in Computer Science at the University of Pisa. 🎓
 
 📚 My main interest is **Artificial Intelligence**, but I'm also passionate about **algorithms, big data and data compression**.
 
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 🐧 I'm a Linux enthusiast, even if nowadays I only use it inside Windows 😔
 
 📧 I like to help students with their carrer path so feel free to contact me at ldwarezl@gmail.com if you are in need of help or you have any curiosities about what I study (or just to chat 😄)
+
+🆒 A random list of things I like/I'm interested in: physics, space, chess, distro ricing, memes, WoW, anime, MTG & much, much more
 
 <!-- GitHub stats -->
 <details open>
