@@ -21,6 +21,8 @@ I have a bachelor degree in Computer Engineering and a MSc degree in Computer Sc
 
 🔨 I mostly work with **Python** and machine learning related frameworks, but my heart will always prefer **C++**
 
+✍️ I have a blog about Machine Learning, gpu programming and more! [Check it out](https://dwarez.github.io/)!
+
 🐧 I'm a Linux enthusiast, currently running on EndeavourOS. Here's a [fastfetch](https://i.postimg.cc/htT9G2KV/240831-10h37m02s-screenshot.png).
 
 📧 I like to help students with their career path so feel free to contact me at ldwarezl@gmail.com if you are in need of help or you have any curiosities about what I study (or just to chat 😄)
