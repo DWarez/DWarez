@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🙋‍♂️ Hello, I'm Dario, I have a bachelor degree in Computer Engineering and a MSc degree in Computer Science at the University of Pisa. 🎓
+🙋‍♂️ Hello, I'm Dario, I'm currently a Machine Learning Engineer at iGenius.
+I have a bachelor degree in Computer Engineering and a MSc degree in Computer Science at the University of Pisa. 🎓
 
 📚 My main interest is **Artificial Intelligence**, but I'm also passionate about **algorithms, big data and data compression**.
 
 🔨 I mostly work with **Python** and machine learning related frameworks, but my heart will always prefer **C++**
 
-🐧 I'm a Linux enthusiast, currently running on Fedora38.
+🐧 I'm a Linux enthusiast, currently running on EndeavourOS. Here's a [fastfetch](https://i.postimg.cc/htT9G2KV/240831-10h37m02s-screenshot.png).
 
 📧 I like to help students with their career path so feel free to contact me at ldwarezl@gmail.com if you are in need of help or you have any curiosities about what I study (or just to chat 😄)
 
