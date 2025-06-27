@@ -37,7 +37,7 @@ I have a bachelor degree in Computer Engineering and a MSc degree in Computer Sc
       <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=DWarez&count_private=false&show_icons=true&theme=dark">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWarez&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark">
+      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWarez&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&exclude_repo=dwarez.github.io">
     </a>
   </div>
 </details>
