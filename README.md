@@ -28,16 +28,3 @@ I have a bachelor degree in Computer Engineering and a MSc degree in Computer Sc
 📧 I like to help students with their career path so feel free to contact me at ldwarezl@gmail.com if you are in need of help or you have any curiosities about what I study (or just to chat 😄)
 
 🆒 A random list of things I like/I'm interested in: physics, space, chess, distro ricing, memes, WoW, anime, MTG & much, much more
-
-<!-- GitHub stats -->
-<details open>
-  <summary>GitHub stats</summary>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=DWarez&count_private=false&show_icons=true&theme=dark">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWarez&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&exclude_repo=dwarez.github.io">
-    </a>
-  </div>
-</details>
