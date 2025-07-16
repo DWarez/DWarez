@@ -21,7 +21,7 @@ I have a bachelor degree in Computer Engineering and a MSc degree in Computer Sc
 
 🔨 I mostly work with **Python** and machine learning related frameworks, but my heart will always prefer **C++**
 
-✍️ I have a blog about Machine Learning, gpu programming and more! [Check it out](https://dwarez.github.io/)!
+✍️ I have a blog about Machine Learning, gpu programming and more! [Check it out](https://themlsurgeon.substack.com/)!
 
 🐧 I'm a Linux enthusiast, currently running on ArchLinux. Here's a [fastfetch](https://i.postimg.cc/HkQRyJgX/snapshot-2024-09-25-17-32-45.png).
 
